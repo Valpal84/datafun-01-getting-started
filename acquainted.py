@@ -48,8 +48,8 @@ logger, logname = setup_logger(__file__)
 # TODO: Customize these by changing the values - use your own name, etc.
 
 # String data types
-name = "John Doe"
-state = "California"
+name = "Valerie Johnson"
+state = "Missouri"
 country = "USA"
 
 # Integer data types
@@ -62,9 +62,11 @@ pet_weight_lbs = 12.5
 
 
 # Boolean data types (True or False)
-has_dog = False
+has_dog = True
+has_cat = True
 likes_analytics = True
-likes_python = True
+likes_python = False
+
 
 # Log some information using f-strings (formatted strings)
 # f-strings are a convenient way to embed variables and expressions in strings
@@ -80,5 +82,6 @@ logger.info(f"Skill count: {skill_count}")
 logger.info(f"Temperature: {temperature_f}")
 logger.info(f"Pet weight: {pet_weight_lbs}")
 logger.info(f"Has dog: {has_dog}")
+logger.info(f"Has cat:{has_cat}")
 logger.info(f"Likes analytics: {likes_analytics}")
 logger.info(f"Likes Python: {likes_python}")
