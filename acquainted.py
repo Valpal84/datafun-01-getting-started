@@ -64,6 +64,7 @@ pet_weight_lbs = 12.5
 # Boolean data types (True or False)
 has_dog = True
 has_cat = True
+has_turtle = True
 likes_analytics = True
 likes_python = False
 
@@ -83,5 +84,6 @@ logger.info(f"Temperature: {temperature_f}")
 logger.info(f"Pet weight: {pet_weight_lbs}")
 logger.info(f"Has dog: {has_dog}")
 logger.info(f"Has cat:{has_cat}")
+logger.info(f"Has turtle:{has_turtle}")
 logger.info(f"Likes analytics: {likes_analytics}")
 logger.info(f"Likes Python: {likes_python}")
