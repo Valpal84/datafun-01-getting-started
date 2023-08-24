@@ -71,7 +71,7 @@ print()
 print("Greetings!")
 
 # Get the user's name and greet them
-name = input("What's your name? (type your name and hit enter): ")
+name = input("What's your alias? (type your name and hit enter): ")
 message = f"Hello {name.capitalize()}!"
 print(message)
 print()
@@ -91,5 +91,10 @@ if response == "y":
     print("There's a lot of built-in functions ready to use!")
     print("We'll learn more about them later.")
     print()
+
+if response == "n":
+    print()
+    print("That's too bad, you could've learned a lot")
+
 
 # TODO: Run with different responses n, y, other...
