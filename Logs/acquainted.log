@@ -1,20 +1,21 @@
-2023-08-23 18:48:03,003.acquainted.INFO ==================================================
-2023-08-23 18:48:03,004.acquainted.INFO Today is 2023-08-23 at 06:48 PM
-2023-08-23 18:48:03,072.acquainted.INFO Running on: nt Windows 10
-2023-08-23 18:48:03,073.acquainted.INFO Python version:  3.11.4
-2023-08-23 18:48:03,074.acquainted.INFO Python path: C:\Users\Valer\AppData\Local\Programs\Python\Python311
-2023-08-23 18:48:03,075.acquainted.INFO Working dir: C:\Users\Valer\Desktop\Lesson01
-2023-08-23 18:48:03,076.acquainted.INFO ==================================================
-2023-08-23 18:48:03,077.acquainted.INFO Name: Valerie Johnson 
-2023-08-23 18:48:03,078.acquainted.INFO State: Missouri
-2023-08-23 18:48:03,079.acquainted.INFO Country: USA
-2023-08-23 18:48:03,080.acquainted.INFO Pet count: 1
-2023-08-23 18:48:03,082.acquainted.INFO Double the pet count: 2
-2023-08-23 18:48:03,082.acquainted.INFO Skill count: 24
-2023-08-23 18:48:03,083.acquainted.INFO Temperature: 81.5
-2023-08-23 18:48:03,084.acquainted.INFO Pet weight: 12.5
-2023-08-23 18:48:03,085.acquainted.INFO Has dog: True
-2023-08-23 18:48:03,087.acquainted.INFO Has cat:True
-2023-08-23 18:48:03,088.acquainted.INFO Has turtle:True
-2023-08-23 18:48:03,088.acquainted.INFO Likes analytics: True
-2023-08-23 18:48:03,089.acquainted.INFO Likes Python: False
+2023-08-29 17:59:00,422.acquainted.INFO ==================================================
+2023-08-29 17:59:00,423.acquainted.INFO Today is 2023-08-29 at 05:59 PM
+2023-08-29 17:59:00,460.acquainted.INFO Running on: nt Windows 10
+2023-08-29 17:59:00,460.acquainted.INFO Python version:  3.11.4
+2023-08-29 17:59:00,461.acquainted.INFO Python path: C:\Users\Valer\AppData\Local\Programs\Python\Python311
+2023-08-29 17:59:00,462.acquainted.INFO Working dir: C:\Users\Valer\Desktop\Lesson01
+2023-08-29 17:59:00,462.acquainted.INFO ==================================================
+2023-08-29 17:59:00,463.acquainted.INFO Name: Valerie Johnson 
+2023-08-29 17:59:00,463.acquainted.INFO State: Missouri
+2023-08-29 17:59:00,464.acquainted.INFO Country: USA
+2023-08-29 17:59:00,464.acquainted.INFO Pet count: 1
+2023-08-29 17:59:00,465.acquainted.INFO Double the pet count: 2
+2023-08-29 17:59:00,466.acquainted.INFO Skill count: 24
+2023-08-29 17:59:00,467.acquainted.INFO Temperature: 81.5
+2023-08-29 17:59:00,467.acquainted.INFO Pet weight: 12.5
+2023-08-29 17:59:00,470.acquainted.INFO Has dog: True
+2023-08-29 17:59:00,473.acquainted.INFO Has cat:True
+2023-08-29 17:59:00,475.acquainted.INFO Has turtle:True
+2023-08-29 17:59:00,475.acquainted.INFO Has pigs:True
+2023-08-29 17:59:00,476.acquainted.INFO Likes analytics: True
+2023-08-29 17:59:00,476.acquainted.INFO Likes Python: False

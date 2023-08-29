@@ -94,7 +94,7 @@ if response == "y":
 
 if response == "n":
     print()
-    print("That's too bad, you could've learned a lot")
+    print("That's too bad, you could've learned a lot, some really amazing things.")
 
 
 # TODO: Run with different responses n, y, other...

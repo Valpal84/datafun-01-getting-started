@@ -50,7 +50,7 @@ area = pi * radius**2
 
 # log the results
 logger.info(f"The area of a circle with radius {radius} is {area}.")
-logger.info("Eww... that's a lot of decimal places - tmi!")
+logger.info("Eww... that's too many decimal places - tmi!")
 
 
 # TODO Round the area to two decimal places.

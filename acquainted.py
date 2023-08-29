@@ -65,6 +65,7 @@ pet_weight_lbs = 12.5
 has_dog = True
 has_cat = True
 has_turtle = True
+has_pigs = True
 likes_analytics = True
 likes_python = False
 
@@ -85,5 +86,6 @@ logger.info(f"Pet weight: {pet_weight_lbs}")
 logger.info(f"Has dog: {has_dog}")
 logger.info(f"Has cat:{has_cat}")
 logger.info(f"Has turtle:{has_turtle}")
+logger.info(f"Has pigs:{has_pigs}")
 logger.info(f"Likes analytics: {likes_analytics}")
 logger.info(f"Likes Python: {likes_python}")

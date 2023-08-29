@@ -106,10 +106,10 @@ lowest = min(uni_data)
 highest = max(uni_data)
 
 # TODO: change to f-strings and display 2 decimal places (like we did above)
-logger.info(f"var    =  {var:.2f}")
-logger.info(f"stdev  =  {stdev:.2f}")
-logger.info(f"lowest =  {lowest:.2f}")
-logger.info(f"highest = {highest:.2f}")
+logger.info(f"var    =  {var:.3f}")
+logger.info(f"stdev  =  {stdev:.3f}")
+logger.info(f"lowest =  {lowest:.3f}")
+logger.info(f"highest = {highest:.3f}")
 
 
 # Descriptive: Univariant Time Series Data.........................
